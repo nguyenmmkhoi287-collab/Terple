@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1766637263 source:e:\terple\terple\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<shellapi.h>
+	<wininet.h>
+
